@@ -1,20 +1,3 @@
-# Q-Team105-TheBoys
-This is a template for CS411 project repository. Please make sure that your title follows the convention: Q-[TeamID]-[YourTeamName]. All TeamID should have a three digit coding (i.e. if you are team 20, you should have `team020` as your ID.). You should also make sure that your url for this repository is [fa22-cs411-Q-team000-teamname.git] so TAs can correctly clone your repository and keep them up-to-date.
+Imagine you are planning to travel to Chicago, but the public transports are booked. Also, you want to shop at your local grocery store, which takes an hour by bus. No worries! How about an application that shows all the people near your vicinity traveling to the same destination or running the same errand? That is where TagMeIn comes into the picture.
 
-Once you setup your project, please remember to submit your team formation to the team form.
-
-## Permission
-You should make sure you allow TAs to access your repository. You can add TA(s) as a collaborator to your repository.
-
-## Preparing for your release
-Eash submission should be in it's own [release](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases). Release are specific freezes to your repository. You should submit your commit hash on canvas or google sheet. When tagging your stage, please use the tag `stage.x` where x is the number to represent the stage.
-
-## Keeping things up-to-date
-You should make sure you keep your project root files up-to-date. Information for each file/folders are explained.
-
-## Code Contribution
-Individual code contribution will be used to evaluate individual contribution to the project.
-
-## Project Demo Video
-
-https://drive.google.com/file/d/1YDemf3Dwh6evEUQqNv4DtskFNcxsy_w9/view?usp=sharing
+This project aims to create a platform where students (ride seekers) can find people (car owners) who are traveling to the same place (destination) where they want to go and carpool. Feel free to share your travel history with your friends and family, and do not hesitate to choose any of your favorite rides. TagMeIn can help students with their grocery shopping, traveling to major cities together for conferences, paper presentations, airport transfers, etc.

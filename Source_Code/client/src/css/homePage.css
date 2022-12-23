@@ -1,0 +1,63 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+}
+
+
+.homepage{
+    display: flex;
+}
+
+main{
+    width:100%;
+    padding: 20;
+}
+
+.sidebar{
+    background: #000;
+    color: #fff;
+    height: 100vh;
+    width: 20%;
+    transition: all 0.5s;
+
+}
+
+.top_section{
+    display: flex;
+    align-items: center;
+    padding: 20px 15px;
+}
+
+.logo{
+    font-size: 25px;
+}
+
+.bars{
+    display:flex;
+    font-size: 25px;
+    margin-left: 50px;
+}
+
+.link{
+    display: flex;
+    color:white;
+    padding: 10px 15px;
+    gap: 15px;
+    transition: all 0.5s;
+}
+
+.link:hover{
+    background: lightskyblue;
+    color: black;
+    transition: all 0.5s;
+}
+
+.icon, .link_text{
+    font-size: 20px;
+}
+
+.heading{
+    width:80%;
+    text-align: center;
+}
